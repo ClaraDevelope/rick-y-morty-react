@@ -1,0 +1,14 @@
+li {
+  border-radius: 20px;
+  color: aliceblue;
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  box-shadow: 5px 3px 5px 0px rgba(33, 54, 56, 0.318);
+  cursor: pointer;
+}
+.turned {
+  transform: rotate(180deg);
+}
